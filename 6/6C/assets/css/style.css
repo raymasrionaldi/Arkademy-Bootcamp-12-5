@@ -1,0 +1,20 @@
+@media (min-width: 992px) {
+  header {
+    padding: 170px 0 100px;
+  }
+}
+
+.intro-header {
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+section {
+  padding: 50px 0;
+}
