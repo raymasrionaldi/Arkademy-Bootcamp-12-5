@@ -18,6 +18,7 @@ Tampilan View
 ![](6/6B/capture/Arkademy%20Bootcamp.png)
 
 Add Data
+
 ![](6/6B/capture/Add%20Data.png)
 
 Delete Data
